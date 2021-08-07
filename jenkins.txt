@@ -1,0 +1,21 @@
+   
+ How To inSTALL jENKINS
+
+1.set jenkins reopostitory(sudo wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat-stable/jenkins.repo)
+
+2. Added command key  ( sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io.key)
+
+
+3. Yum install jenkins
+
+4. service start  jenkins
+
+5. conncet to jenkins 
+   a. go to browser   (type IP of  machine :8080)
+
+6.  cat  pathkey
+   u will get key
+
+7. put password jenkins wil get open
+8.  Dashboard will open
+9.  Admin (u have to change the pwd)
